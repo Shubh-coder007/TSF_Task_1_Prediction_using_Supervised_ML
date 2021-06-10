@@ -1,4 +1,3 @@
-
 # The Sparks Foundation
 # Successfully completed the Task of CV & IOT
 # Author: Shubh Dholakiya
